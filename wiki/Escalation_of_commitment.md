@@ -444,4 +444,4 @@ See also
 
 ----
 
-[Wikipedia](https://en.wikipedia.org/wiki/Escalation_of_commitment) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Escalation_of_commitment.md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license
+[Wikipedia](https://en.wikipedia.org/wiki/Escalation_of_commitment) in [Markdown](https://github.com/rognoni/markpedia) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license

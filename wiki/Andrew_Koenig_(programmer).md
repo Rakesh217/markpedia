@@ -272,4 +272,4 @@ programmers](Category:American_computer_programmers "wikilink")
 
 ----
 
-[Wikipedia](https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer)) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Andrew_Koenig_(programmer).md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license
+[Wikipedia](https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer)) in [Markdown](https://github.com/rognoni/markpedia) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license

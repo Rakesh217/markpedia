@@ -330,4 +330,4 @@ from a simple bad habit, bad practice, or bad idea:
 
 ----
 
-[Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Anti-pattern.md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license
+[Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern) in [Markdown](https://github.com/rognoni/markpedia) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license
