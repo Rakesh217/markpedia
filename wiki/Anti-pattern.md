@@ -209,7 +209,7 @@ from a simple bad habit, bad practice, or bad idea:
     *Diaper Pattern*. Also can refer to erasing the [Stack
     trace](Stack_trace.md) during exception handling, which can
     hamper debugging.
--   [Hard code](Hard_code.md): Embedding assumptions about the
+-   [Hard code](Hard_coding.md): Embedding assumptions about the
     environment of a system in its implementation
 -   [Lasagna code](Spaghetti_code#Lasagna_code.md): Programs
     whose structure consists of too many layers of inheritance
