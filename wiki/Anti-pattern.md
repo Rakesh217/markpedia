@@ -327,3 +327,7 @@ from a simple bad habit, bad practice, or bad idea:
 -   [Email Anti-Patterns](https://leanpub.com/email-antipatterns/) book
 -   [Patterns of Social
     Domination](http://publicsphereproject.org/anti-patterns/)
+
+----
+
+[Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Anti-pattern.md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license

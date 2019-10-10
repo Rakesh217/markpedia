@@ -191,4 +191,6 @@ hard-coded solution as opposed to an [algorithmic](algorithm "wikilink")
 one (even though the hard-coded program might be the output of an
 algorithmic program).
 
+----
 
+[Wikipedia](https://en.wikipedia.org/wiki/Hard_coding) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Hard_coding.md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license

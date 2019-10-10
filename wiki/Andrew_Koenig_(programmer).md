@@ -269,3 +269,7 @@ programmers](Category:American_computer_programmers "wikilink")
     Pitfalls\"](http://www.acceleratedcpp.com/authors/koenig/bibliography/pitfalls.preface.html).
 
 [^10]: `{{cite techreport |first1=M. D. |last1=McIlroy |authorlink1=Doug McIlroy |year=1987 |url=http://www.cs.dartmouth.edu/~doug/reader.pdf |title=A Research Unix reader: annotated excerpts from the Programmer's Manual, 1971–1986 |series=CSTR |number=139 |institution=Bell Labs}}`{=mediawiki}
+
+----
+
+[Wikipedia](https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer)) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Andrew_Koenig_(programmer).md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license

@@ -189,3 +189,6 @@ External links
 -   [Spaghetti Code: Detangling Life and Work with Programmer Wisdom
     (English Edition)](http://spaghetticodebook.com)
 
+----
+
+[Wikipedia](https://en.wikipedia.org/wiki/Spaghetti_code) in [Markdown](https://github.com/rognoni/markpedia/blob/master/wiki/Spaghetti_code.md) format under the [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license
