@@ -10,3 +10,9 @@ Wikipedia in Markdown format:
 1. add footer
 1. push and browse [https://raw.githubusercontent.com/rognoni/markpedia/master/wiki/Anti-pattern.md](https://monastic.netlify.com/#/url/https://raw.githubusercontent.com/rognoni/markpedia/master/wiki/Anti-pattern.md)
 1. make a pull request
+
+## Content Rules
+
+1. informatics articles in english language
+1. convert and update existing articles
+1. create new articles following the Wikipedia naming conventions (capitalize, underscores)
